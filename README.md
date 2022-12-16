@@ -1,1 +1,1 @@
-My first readme
+My babysteps into GIT
